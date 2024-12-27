@@ -12,7 +12,7 @@ const Main = () => {
       {/* nav var */}
 
       <div className="nav">
-        <p>Zombiee</p>
+        <p>Lisi | Prem</p>
         <img src={assets.user_icon} alt="" />
       </div>
 
