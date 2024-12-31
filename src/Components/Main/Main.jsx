@@ -12,7 +12,7 @@ const Main = () => {
       {/* nav var */}
 
       <div className="nav">
-        <p>Lisi | Prem</p>
+        <p>Gemini | Prem</p>
         <img src={assets.user_icon} alt="" />
       </div>
 
@@ -83,7 +83,7 @@ const Main = () => {
             </div>
           </div>
           <p className="bottom-info">
-            Zombiee may display inaccurate info, including about people, so
+            Gemini may display inaccurate info, including about people, so
             double-check its responses. Your privacy and Zombiee Apps
           </p>
         </div>
